@@ -1,4 +1,5 @@
-
+# add ip ke domain < off proxies> 
+https://sub.irawancandra2303.workers.dev/
 # UP REPO DEBIAN
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y </code></pre>
 # UP REPO UBUNTU
